@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/sandbox/public/session_2_8-8-2018.php" line="52" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b74a117f-b00c-425f-93ca-fe89e2f0a810" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sandbox/public/session_2_8-8-2018.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sandbox/public/session_3_8-10-18.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php2/src/ModOOP/Magic_To_String.php" beforeDir="false" afterPath="$PROJECT_DIR$/php2/src/ModOOP/Magic_To_String.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/public/index.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/php2/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1631805445">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.composer.command.options" />
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="PHP" value="21" />
+          <entry key="php" value="6551" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="10" />
+          <entry key="PHP" value="6562" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.composer.actions" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="PHP" value="1" />
+          <entry key="php" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.rename.constructor" />
+      <usages-collector id="statistics.php.new.test" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sandbox/public/session_2_8-8-2018.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2040">
+              <caret line="122" column="35" selection-start-line="122" selection-start-column="35" selection-end-line="122" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/orderapp/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="21" />
+              <folding>
+                <element signature="e#278#318#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sandbox/public/session_3_8-10-18.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="133" column="3" lean-forward="true" selection-start-line="133" selection-start-column="3" selection-end-line="133" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php2/src/ModOOP/Magic_To_String.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>queryPartFromRMA</find>
+      <find>DDVISUALDEV</find>
+      <find>not ex</find>
+      <find>DDVISUALDEV01</find>
+      <find>DDVISUAL01</find>
+      <find>'DDVISUAL01'</find>
+      <find>VAR[29</find>
+      <find>$queryPartFromRMA</find>
+      <find>ncmCauseID</find>
+      <find>echo</find>
+      <find>queryPartFromRMACredit</find>
+      <find>queryNC</find>
+      <find>querync</find>
+      <find>rma qual</find>
+      <find>disp</find>
+      <find>disposition in</find>
+      <find>$dp</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sandbox/public/index.php" />
+        <option value="$USER_HOME$/Downloads/RMANC2.PHP" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/rma_email 2.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/rma_email_bb 2.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/rma_email_bb.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/rma_email.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/queryPARTID.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/rmaUpdateCause.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/rmaNC 2.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/rmaNC.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/queryNONCONFORMANCE.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/nc_labels.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/nc_labels.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/closeMultiNCM 2.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/closeMultiNCM.php" />
+        <option value="$PROJECT_DIR$/sandbox/public/session_2_8-8-2018.php" />
+        <option value="$PROJECT_DIR$/php2/src/ModOOP/Anonymous.php" />
+        <option value="$PROJECT_DIR$/php2/src/ModOOP/Magic_To_String.php" />
+        <option value="$PROJECT_DIR$/sandbox/public/session_3_8-10-18.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/php2/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/php2/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/php2/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/php2/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/php2/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/php2/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/php2/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/php2/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/php2/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/php2/vendor/composer" />
+      <path value="$PROJECT_DIR$/php2/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/php2/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/php2/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/php2/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/php2/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/php2/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/php2/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/php2/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/php2/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/php2/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/php2/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/php2/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/php2/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/php2/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/php2/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/php2/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/php2/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/php2/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/php2/vendor/sebastian/recursion-context" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="php_cert_course_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_cert_course_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php_cert_course_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_cert_course_2" type="462c0819:PsiDirectoryNode" />
+              <item name="orderapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php_cert_course_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_cert_course_2" type="462c0819:PsiDirectoryNode" />
+              <item name="php2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php_cert_course_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_cert_course_2" type="462c0819:PsiDirectoryNode" />
+              <item name="php2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php_cert_course_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_cert_course_2" type="462c0819:PsiDirectoryNode" />
+              <item name="php2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ModOOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php_cert_course_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_cert_course_2" type="462c0819:PsiDirectoryNode" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php_cert_course_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_cert_course_2" type="462c0819:PsiDirectoryNode" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/ksweat/Documents/personal/php_cert_course_2/php2/src/ModOOP/Magic_To_String.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ksweat\Documents\personal\php_cert_course_2\sandbox\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.session_2_8-8-2018.php">
+    <configuration name="session_2_8-8-2018.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php_cert_course_2/sandbox/public/session_2_8-8-2018.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="session_2_8-8-2018.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/sandbox/public/session_2_8-8-2018.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.session_2_8-8-2018.php" />
+      <item itemvalue="PHP Script.session_2_8-8-2018.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.session_2_8-8-2018.php" />
+        <item itemvalue="JavaScript Debug.session_2_8-8-2018.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b74a117f-b00c-425f-93ca-fe89e2f0a810" name="Default Changelist" comment="" />
+      <created>1533567895575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533567895575</updated>
+      <workItem from="1533567898685" duration="6766000" />
+      <workItem from="1533817408737" duration="11727000" />
+      <workItem from="1533830864991" duration="671000" />
+      <workItem from="1533833504841" duration="1303000" />
+      <workItem from="1533839406295" duration="3720000" />
+      <workItem from="1533909161487" duration="7750000" />
+      <workItem from="1533918353059" duration="9000" />
+      <workItem from="1533920680379" duration="92000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32038000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13166311" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sandbox/public/session_2_8-8-2018.php</url>
+          <line>158</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/php2/src/ModOOP/User.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php2/src/ModOOP/Static.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/rma_email_bb 2.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/rma_email_bb.php" />
+    <entry file="file://$USER_HOME$/Downloads/RMANC2.PHP">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="511" column="34" lean-forward="true" selection-end-line="679" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/rmaUpdateCause.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/SAMEPAGE.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/rma_email.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/rmaNC.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/rmaUpdateCause 2.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/queryPARTID.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/queryNONCONFORMANCE.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/rma_email 2.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/nc_labels.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/rmaNC 2.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/nc_labels.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/closeMultiNCM.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/closeMultiNCM 2.php" />
+    <entry file="file://$PROJECT_DIR$/php2/src/ModOOP/Anonymous.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orderapp/src/OrderApp/Controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orderapp/src/OrderApp/Core/Service/Services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1329">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/public/session_2_8-8-2018.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="122" column="35" selection-start-line="122" selection-start-column="35" selection-end-line="122" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orderapp/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="e#278#318#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php2/src/ModOOP/Magic_To_String.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/public/session_3_8-10-18.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="133" column="3" lean-forward="true" selection-start-line="133" selection-start-column="3" selection-end-line="133" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
