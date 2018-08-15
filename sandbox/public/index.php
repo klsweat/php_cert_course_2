@@ -11,6 +11,7 @@ spl_autoload_register(
 // "use" to import subclasses
 use Homework\Shoe;
 use Homework\Car;
+use Homework\FileLogger;
 
 
 // Create New Instance of Extension
@@ -22,13 +23,20 @@ $shoe1->setLaceColor('Pink');
 $shoe1->getProductName();
 $shoe1->getProductPrice();
 $shoe1->getQty();
-
-
 var_dump($shoe1);
 
 
 // Example 1 for Abstract super class
 $car = new Car(1);
 $car->setColor('blue');
-
 var_dump($car);
+
+
+// Implementing an Interface Example
+function testFilelogger(){
+    $logger = new FileLogger('./log.txt','w');
+    $logger->log('start using file logger');
+    $logger->log('another log message');
+}
+
+testFilelogger();
