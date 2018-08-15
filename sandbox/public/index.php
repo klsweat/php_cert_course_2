@@ -8,13 +8,10 @@ spl_autoload_register(
     }
 );
 
-// "use" the front controller and services
+// "use" to import subclasses
 use Homework\Shoe;
 use Homework\Car;
 
-//Get a new index controller and startup
-#$controller = new IndexController();
-#$controller->index();
 
 // Create New Instance of Extension
 $shoe1 = new Shoe(2);
