@@ -9,10 +9,7 @@ spl_autoload_register(
 );
 
 // "use" to import subclasses
-use Homework\Shoe;
-use Homework\Car;
-use Homework\FileLogger;
-
+use Homework\{Product, Shoe, Vehicle, Car, ILogger, FileLogger};
 
 // Create New Instance of Extension
 $shoe1 = new Shoe(2);
