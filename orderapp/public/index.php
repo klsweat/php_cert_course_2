@@ -22,3 +22,4 @@ Services::getInstance();
 //Get a new index controller and startup
 $controller = new IndexController();
 $controller->index();
+

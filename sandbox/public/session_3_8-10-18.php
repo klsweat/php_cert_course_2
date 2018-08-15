@@ -90,7 +90,7 @@ class Truck extends Vehicle{
     protected $bedlength;
 
     public function getSteeringwheel(){
-        return $this->$steeringwheel;
+        return $this->steeringwheel;
     }
 
     public function setSteeringwheel(float $steeringwheel){
@@ -99,7 +99,7 @@ class Truck extends Vehicle{
     }
 
     public function getBedlength(){
-        return $this->$bedlength;
+        return $this->bedlength;
     }
 
     public function setBedlength($bedlength){
